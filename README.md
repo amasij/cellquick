@@ -1,5 +1,5 @@
 # cellquick
-e commerce website for buying phones
+e commerce website for buying phones (https://bgt/cellquick)
 
 ![alt text](https://bgt.ng/cv/simon/budgit/cellquick/1.png)
 
